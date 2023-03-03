@@ -1,0 +1,11 @@
+.form {
+    width: 700px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+button{
+    cursor: pointer;
+    background-color: #df31ab;
+
+    color: white;
+}
